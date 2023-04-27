@@ -1,0 +1,15 @@
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.csproj.AssemblyReference.cache
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.AssemblyInfoInputs.cache
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.AssemblyInfo.cs
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.csproj.CoreCompileInputs.cache
+C:\SrimathiOfficial\project\services\C sharp\C sharp\bin\Debug\net6.0\cSharp.exe
+C:\SrimathiOfficial\project\services\C sharp\C sharp\bin\Debug\net6.0\cSharp.deps.json
+C:\SrimathiOfficial\project\services\C sharp\C sharp\bin\Debug\net6.0\cSharp.runtimeconfig.json
+C:\SrimathiOfficial\project\services\C sharp\C sharp\bin\Debug\net6.0\cSharp.dll
+C:\SrimathiOfficial\project\services\C sharp\C sharp\bin\Debug\net6.0\cSharp.pdb
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.dll
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\refint\cSharp.dll
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.pdb
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\cSharp.genruntimeconfig.cache
+C:\SrimathiOfficial\project\services\C sharp\C sharp\obj\Debug\net6.0\ref\cSharp.dll
